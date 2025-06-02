@@ -5,7 +5,7 @@ Repository for analysis performed in a bachelor thesis called "Large-Scale Analy
 * Structure of folders is described below
 * With downloaded materials from Zenodo, each step can be ran on its own
 
-1. Download materials from Zenodo: https://zenodo.org/
+1. Download materials from Zenodo: https://doi.org/10.5281/zenodo.15458756
     * Copy folder _materials_, so that the folder placement is the same as defined bellow
 
 1. Create Conda Virtual Environment (for both Linux and Windows)
